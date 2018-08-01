@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Ashley Grealish</title>
-    <link>http://example.org/tags/about/</link>
+    <link>https://a-grealish.github.io/tags/about/</link>
     <description>Recent content in About on Ashley Grealish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 07 Jul 2018 19:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://a-grealish.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://a-grealish.github.io/about/</link>
       <pubDate>Sat, 07 Jul 2018 19:55:05 -0400</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://a-grealish.github.io/about/</guid>
       <description>Ashley is a Engineering Leader who has helped to grow multiple start-up companies who want to make postivie changes in the world. He specalizes in building technology which interacts with the real world and in the past has been an IoT platform which has supports 100,000+ remotly connected devices. He is happy working across a technology stack from hardware and embedded firmware up to backend and frontend webapp development.</description>
     </item>
     

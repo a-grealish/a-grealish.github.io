@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ashley Grealish</title>
-    <link>http://example.org/</link>
+    <link>https://a-grealish.github.io/</link>
     <description>Recent content on Ashley Grealish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 07 Jul 2018 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://a-grealish.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>http://example.org/projects/</link>
+      <link>https://a-grealish.github.io/projects/</link>
       <pubDate>Sat, 07 Jul 2018 22:55:05 -0400</pubDate>
       
-      <guid>http://example.org/projects/</guid>
+      <guid>https://a-grealish.github.io/projects/</guid>
       <description>This page is intended as a place to record some of the side projects that I have worked on to help develop my technical skills.
 Kongera Ubumenyi A WIP project which aims to make the process of identifing learning goals and working on these with your team as simple as possible. The app clearly communicates what skill you expect you team to have in different roles and then work with them to set and review improvement goals.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://a-grealish.github.io/about/</link>
       <pubDate>Sat, 07 Jul 2018 19:55:05 -0400</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://a-grealish.github.io/about/</guid>
       <description>Ashley is a Engineering Leader who has helped to grow multiple start-up companies who want to make postivie changes in the world. He specalizes in building technology which interacts with the real world and in the past has been an IoT platform which has supports 100,000+ remotly connected devices. He is happy working across a technology stack from hardware and embedded firmware up to backend and frontend webapp development.</description>
     </item>
     
