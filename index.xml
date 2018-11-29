@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ashley Grealish</title>
-    <link>https://a-grealish.github.io/</link>
+    <link>https://grealish.co.uk/</link>
     <description>Recent content on Ashley Grealish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 07 Jul 2018 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://a-grealish.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grealish.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://a-grealish.github.io/projects/</link>
+      <link>https://grealish.co.uk/projects/</link>
       <pubDate>Sat, 07 Jul 2018 22:55:05 -0400</pubDate>
       
-      <guid>https://a-grealish.github.io/projects/</guid>
+      <guid>https://grealish.co.uk/projects/</guid>
       <description>This page is intended as a place to record some of the side projects that I have worked on to help develop my technical skills.
 Kongera Ubumenyi A WIP project which aims to make the process of identifing learning goals and working on these with your team as simple as possible. The app clearly communicates what skill you expect you team to have in different roles and then work with them to set and review improvement goals.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://a-grealish.github.io/about/</link>
+      <link>https://grealish.co.uk/about/</link>
       <pubDate>Sat, 07 Jul 2018 19:55:05 -0400</pubDate>
       
-      <guid>https://a-grealish.github.io/about/</guid>
+      <guid>https://grealish.co.uk/about/</guid>
       <description>Ashley is a Engineering Leader who has helped to grow start-up companies who want to make postivie changes in the world. He specalizes in building technology which interacts with the real world and in the past has built an IoT platform which has supports 100,000+ remotely connected devices. He is happy working across a technology stack from hardware and embedded firmware up to backend and frontend web-app development.
 GemFair At GemFair, Ashley leads the development of a platform which ensures small scale Gem miners get paid a fair wage and get to work in safe, ethical conditions.</description>
     </item>
