@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ashley Grealish</title>
+    <link>https://grealish.co.uk/categories/</link>
+    <description>Recent content in Categories on Ashley Grealish</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://grealish.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aviation</title>
+      <link>https://grealish.co.uk/categories/aviation/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://grealish.co.uk/categories/aviation/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
